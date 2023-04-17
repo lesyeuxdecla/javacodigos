@@ -9,3 +9,6 @@ Nesse desafio foi proposto uma simples calculadora aritmética, sendo ela capaz 
 
 <h3>Challenge Music Playlist.</h3>
 Nesse desafio foi proposto a criação de um projeto Java que se assemelha a uma playlist para organizar listas de músicas favoritas. Suas funcionalidades incluem adicionar, remover e reordenar músicas. As músicas escolhidas por mim são do Álbum: Lover da Taylor Swift, porém é possível alterar da forma como desejado.
+
+<h3>Primes Number.</h3>
+Nesse desafio foi proposto para nos desafiarmos quanto ao nosso conhecimento em métodos, estruturas de controle e estruturas de repetição.
